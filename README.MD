@@ -45,7 +45,7 @@ python "C:\Users\Gamer\anaconda3\envs\dfdir\Lib\site-packages\gimagedownload\__i
 
 ```python
 #Underlines are converted to space
-python "C:\Users\Gamer\anaconda3\envs\dfdir\googleimgs.py" -p c:\newfilepath\myproxiefile\proxy.pkl -s brazilian_food,ferrari,Los_Angeles -d f:\googleimgdownload -v 3 -t 50 -r 7 -q 9
+python "C:\Users\Gamer\anaconda3\envs\dfdir\Lib\site-packages\gimagedownload\__init__.py" -p c:\newfilepath\myproxiefile\proxy.pkl -s brazilian_food,ferrari,Los_Angeles -d f:\googleimgdownload -v 3 -t 50 -r 7 -q 9
 ```
 
 ## CLI Arguments
