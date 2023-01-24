@@ -16,6 +16,10 @@ pip install gimagedownload
 
 ### pip install --upgrade gimagedownload
 
+## This video em Portuguese might help you:
+
+## https://www.youtube.com/watch?v=U74Ycj0uONQ
+
 ```python
 from site2hdd import download_url_list,get_proxies,download_webpage
 
